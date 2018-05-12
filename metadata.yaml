@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42573
     wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44110#Pianonviritt-j-Yksin-yt-ksinen-selkkaus
 gutenberg_issued: '2013-11-05'
 gutenberg_type: Text
 identifiers:
